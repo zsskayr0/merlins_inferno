@@ -1,29 +1,17 @@
+# Merlin's Oblivion
 
-Installation information
-=======
+<p align="justify">Merlin's Oblivion is my first Minecraft mod, born out of a deep appreciation for the endless possibilities that mods bring to existing games. Through the process of coding this mod, I've gained a valuable understanding of Java and the fundamentals of the coding world.</p>
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+<p align="justify">This mod introduces a plethora of hostile mobs, structures, and biomes, each with their own unique features that add depth and complexity to your survival experience. These additions vary in their level of threat and danger, seamlessly incorporating a progression system that evolves alongside the player throughout their journey. One of the key aspects of this mod is the careful consideration given to biome compatibility. All mobs spawn exclusively in specific biome types, making them compatible with any other mod that introduces new biomes. This opens up a world of possibilities for creating diverse and exciting modpacks.</p>
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+<p align="justify">While Merlin's Oblivion is currently a work in progress (WIP) and in the early beta stage, it has been meticulously optimized to ensure smooth integration with other mods. It serves as a great addition to your existing modpacks, enhancing your Minecraft experience with its captivating features.</p>
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Curseforge
 
-Mapping Names:
-============
-The MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+<p align="justify">The mod is currently without a proper link on Curseforge. Stay tuned for future updates and availability.</p>
 
-MDG Legacy:
-==========
-This template uses [ModDevGradle Legacy](https://github.com/neoforged/ModDevGradle). Documentation can be found [here](https://github.com/neoforged/ModDevGradle/blob/main/LEGACY.md).
+## Licensing
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Merlin's Oblivion is copyrighted under the year 2020 by zsskayr0. It is licensed under the MIT license, and you can find the full details in the [LICENSE](./LICENSE) file. Please note that third-party software and assets may be subject to different licensing.
+
+Feel free to explore the wonders of Merlin's Oblivion and let your Minecraft adventures reach new heights with Merlin's Oblivion!
