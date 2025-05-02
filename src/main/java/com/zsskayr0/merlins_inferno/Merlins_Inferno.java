@@ -52,6 +52,12 @@ public class Merlins_Inferno {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.TITANIUMBAR);
+            event.accept(ModItems.DEMONITEBAR);
+            event.accept(ModItems.EBONYBAR);
+            event.accept(ModItems.FROZENBAR);
+            event.accept(ModItems.IRONWOODBAR);
+            event.accept(ModItems.PLATINUMBAR);
+            event.accept(ModItems.STEELBAR);
         }
     }
 

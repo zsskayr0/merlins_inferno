@@ -15,6 +15,16 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> DEMONITEBAR = ITEMS.register( "demonite_bar",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> EBONYBAR = ITEMS.register( "ebony_bar",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> FROZENBAR = ITEMS.register( "frozen_bar",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> IRONWOODBAR = ITEMS.register( "ironwood_bar",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PLATINUMBAR = ITEMS.register( "platinum_bar",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> STEELBAR = ITEMS.register( "steel_bar",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
